@@ -35,6 +35,8 @@ tribute-page/
 └── style.css       # Stylesheet
 ```
 
+---
+
 
 ### 🚀 Usage
 
