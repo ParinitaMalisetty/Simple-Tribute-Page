@@ -50,7 +50,7 @@ tribute-page/
 
 ---
 
-###Output:
+### Output:
 
 
 <img width="1919" height="1020" alt="Screenshot 2025-08-11 100707" src="https://github.com/user-attachments/assets/829bf39a-6716-4a29-b682-2ce707bb9600" />
