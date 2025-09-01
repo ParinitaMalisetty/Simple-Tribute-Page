@@ -34,16 +34,18 @@ tribute-page/
 ├── index.html      # Main tribute page
 └── style.css       # Stylesheet
 ---
+---
 
-### 🚀 Usage
+🚀 Usage
 
-1. Clone the repository:
+Clone the repository:
 
-   ```bash
-   git clone https://github.com/ParinitaMalisetty/Simple-Tribute-Page.git
-   ```
-2. Open `index.html` in VSCode..
-3. Customize the content (title, image, bio, links) to create your own tribute page.
+git clone https://github.com/ParinitaMalisetty/Simple-Tribute-Page.git
+
+
+Open index.html in your browser.
+
+Customize the content (title, image, bio, links) to create your own tribute page.
 
 ---
 
