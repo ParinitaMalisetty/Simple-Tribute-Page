@@ -53,10 +53,12 @@ tribute-page/
 ##Output:
 
 
-<img width="1920" height="1020" alt="Screenshot 2025-08-11 100718" src="https://github.com/user-attachments/assets/ca24b77e-f4e8-4816-98ec-739beedc3ca9" />
 <img width="1919" height="1020" alt="Screenshot 2025-08-11 100707" src="https://github.com/user-attachments/assets/829bf39a-6716-4a29-b682-2ce707bb9600" />
+<img width="1920" height="1020" alt="Screenshot 2025-08-11 100718" src="https://github.com/user-attachments/assets/ca24b77e-f4e8-4816-98ec-739beedc3ca9" />
 <img width="1920" height="1020" alt="Screenshot 2025-08-11 100756" src="https://github.com/user-attachments/assets/d6da7604-2b3e-43fd-86c1-7bf01e5f3ef5" />
 <img width="1920" height="1020" alt="Screenshot 2025-08-11 100748" src="https://github.com/user-attachments/assets/c7470c57-d7e1-410d-a3f0-888b613e3fbe" />
+
+---
 
 
 ### 📖 Inspiration
